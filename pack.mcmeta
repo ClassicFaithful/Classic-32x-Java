@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 55,
+    "pack_format": 80,
     "description": "Vattic's Original Faithful 32x32 §8By Evorp and many others",
     "supported_formats": {
-      "min_inclusive": 46,
-      "max_inclusive": 55
+      "min_inclusive": 33,
+      "max_inclusive": 34
     }
   }
 }
