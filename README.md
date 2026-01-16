@@ -12,7 +12,7 @@
 ---
 
 ## How to download:
-All Java and Bedrock Edition versions can be downloaded on [our website](https://faithfulpack.net/classicfaithful/32x-programmer-art).
+All Java and Bedrock Edition versions can be downloaded on [our website]([https://faithfulpack.net/classicfaithful/32x-programmer-art](https://faithfulpack.net/classic32x)).
 
 ## How to switch versions:
 To view the pack files and to switch between resource pack versions, click the branch button (`main`) and select the version you want to see! 
