@@ -1,4 +1,4 @@
-[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://webapp.faithfulpack.net/gallery. 
+[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://studio.faithfulpack.net/gallery.
 
 ---
 
@@ -106,7 +106,7 @@ ExileUnlimited - Cocoa bean crop* and cocoa bean item.
 
 SupremX8 - Two of the creative UIs.
 
-carlotta4th - Beacon GUI* and the survival inventory GUI*. 
+carlotta4th - Beacon GUI* and the survival inventory GUI*.
 
 TheHalaran - Emerald Block*, XP bar, and boss bars.
 
